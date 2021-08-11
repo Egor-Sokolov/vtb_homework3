@@ -11,7 +11,7 @@ package com.company;
         4. В методе main() нужно вызвать полученный метод, обработать возможные исключения
         MySizeArrayException и MyArrayDataException и вывести результат расчёта. */
 
-import java.util.stream.Stream;
+
 
 public class Main {
 

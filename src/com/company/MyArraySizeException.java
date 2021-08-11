@@ -1,6 +1,6 @@
 package com.company;
 
-public class MyArraySizeException extends RuntimeException {
+public class MyArraySizeException extends MyException {
 
 
 

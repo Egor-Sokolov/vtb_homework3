@@ -1,6 +1,6 @@
 package com.company;
 
-public class MyArrayDataException extends  NumberFormatException{
+public class MyArrayDataException extends  MyException{
 
     private int row;
     private int column;
